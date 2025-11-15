@@ -1,0 +1,5 @@
+{
+  "name": "Interface LenaVS",
+  "description": "A web-based interface to create karaoke-style videos by syncing lyrics with audio and video backgrounds. Users can upload music, lyrics, and visuals, edit timing and text styles, and export the final video.",
+  "requestFramePermissions": []
+}
